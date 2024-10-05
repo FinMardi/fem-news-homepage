@@ -20,11 +20,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
+- Solution URL: [GitHub](https://github.com/FinMardi/fem-news-homepage)
 - Live Site URL: [Live site URL]()
 
 ## My process
